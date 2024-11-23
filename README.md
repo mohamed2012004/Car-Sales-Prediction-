@@ -65,8 +65,12 @@ The dataset includes the following columns:
 - **Sales Prediction**: The analysis also attempts to predict car sales, addressing the challenge of overfitting, which was encountered during the project. Various algorithms were tested, although the results were not ideal.
 
 ## Analysis
+
 1.**Gender Analysis**
+
 ![Screenshot 2024-11-12 061053](https://github.com/user-attachments/assets/decde912-9eb0-4d99-9b4f-f17a18e638a6)
+
+
 2.**Company and Model Analysis**
 ![Screenshot 2024-11-12 064043](https://github.com/user-attachments/assets/60d8d779-a657-462b-88cf-71f699d4e980)
 ![Screenshot 2024-11-12 064054](https://github.com/user-attachments/assets/6e1405af-1f73-4bbf-a70b-c3f065f536b1)
