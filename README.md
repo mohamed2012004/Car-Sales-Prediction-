@@ -79,15 +79,3 @@ The dataset includes the following columns:
 ![Screenshot 2024-11-12 074738](https://github.com/user-attachments/assets/72e7e4b1-1b59-44d9-a447-0dd5007e80b0)
 
 
-## Data Visualizations
-
-The project includes the following types of visualizations:
-- **Bar charts**: To show the number of cars sold by region and dealer.
-- **Pie charts**: To visualize the distribution of car body styles and customer gender.
-- **Line graphs**: To analyze sales trends over time.
-
-## How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/car-sales-analysis.git
