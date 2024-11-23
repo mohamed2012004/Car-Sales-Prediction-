@@ -1,6 +1,6 @@
-# Car Sales Transactions Analysis
+# Car Sales Prdiction
 
-This project analyzes a dataset containing car sales transactions. The dataset includes detailed information about customers, cars, and dealerships. The aim is to understand purchasing behavior, regional sales trends, and the influence of various attributes (such as car model, price, and customer demographics) on sales.
+This project analyzes a dataset containing car sales transactions and predict sales of it. The dataset includes detailed information about customers, cars, and dealerships. The goal is to understand purchasing behavior, regional sales trends, and the influence of various attributes (such as car model, price, and customer demographics) on sales.
 
 ## Dataset Metadata
 
@@ -56,17 +56,33 @@ The dataset includes the following columns:
 
 ## Goals of the Analysis
 
-- **Customer Demographics**: Analyze purchasing trends by customer gender and income.
-- **Sales Performance by Dealer**: Compare sales performance across different dealerships.
+- **Customer Demographics**: Analyze purchasing trends based on customer gender and income.
+- **Sales Performance by Dealer**: Compare the sales performance across different dealerships.
 - **Regional Analysis**: Investigate sales patterns by geographic region.
 - **Price Trends**: Identify trends in car prices based on model, company, and body style.
-- **Transmission Preferences**: Explore whether customers prefer manual or automatic transmissions.
+- **Transmission Preferences**: Examine customer preferences for manual versus automatic transmissions.
 - **Body Style and Model Preferences**: Understand customer preferences for different body styles and car models.
-  
+- **Sales Prediction**: The analysis also attempts to predict car sales, addressing the challenge of overfitting, which was encountered during the project. Various algorithms were tested, although the results were not ideal.
+
+## Analysis
+1.**Gender Analysis**
+![Screenshot 2024-11-12 061053](https://github.com/user-attachments/assets/decde912-9eb0-4d99-9b4f-f17a18e638a6)
+2.**Company and Model Analysis**
+![Screenshot 2024-11-12 064043](https://github.com/user-attachments/assets/60d8d779-a657-462b-88cf-71f699d4e980)
+![Screenshot 2024-11-12 064054](https://github.com/user-attachments/assets/6e1405af-1f73-4bbf-a70b-c3f065f536b1)
+![Screenshot 2024-11-12 065319](https://github.com/user-attachments/assets/f7e79112-9fa3-4e1b-befb-05f7c4ac1818)
+
+
+
 ## Data Visualizations
 
-The project includes visualizations such as:
-- **Bar charts** to show the number of cars sold by region and dealer.
-- **Pie charts** to visualize the distribution of car body styles and customer gender.
-- **Line graphs** to analyze sales trends over time.
+The project includes the following types of visualizations:
+- **Bar charts**: To show the number of cars sold by region and dealer.
+- **Pie charts**: To visualize the distribution of car body styles and customer gender.
+- **Line graphs**: To analyze sales trends over time.
 
+## How to Run the Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/car-sales-analysis.git
