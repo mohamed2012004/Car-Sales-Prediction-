@@ -73,12 +73,10 @@ The dataset includes the following columns:
 
 2.**Company and Model Analysis**
 ![Screenshot 2024-11-12 064043](https://github.com/user-attachments/assets/60d8d779-a657-462b-88cf-71f699d4e980)
-![Screenshot 2024-11-12 064054](https://github.com/user-attachments/assets/6e1405af-1f73-4bbf-a70b-c3f065f536b1)
 ![Screenshot 2024-11-12 065319](https://github.com/user-attachments/assets/f7e79112-9fa3-4e1b-befb-05f7c4ac1818)
 
 3.**Time Analysis**
 ![Screenshot 2024-11-12 074738](https://github.com/user-attachments/assets/72e7e4b1-1b59-44d9-a447-0dd5007e80b0)
-![Screenshot 2024-11-12 075740](https://github.com/user-attachments/assets/ed2fe400-9e7e-4ea2-b1db-ad954f9631f1)
 
 
 ## Data Visualizations
