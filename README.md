@@ -1,6 +1,6 @@
 # Car Sales Prdiction
 
-This project analyzes a dataset containing car sales transactions and predict sales of it. The dataset includes detailed information about customers, cars, and dealerships. The goal is to understand purchasing behavior, regional sales trends, and the influence of various attributes (such as car model, price, and customer demographics) on sales.
+This project analyzes a dataset containing car sales transactions and predict sales of it. The dataset includes detailed information about customers, cars, and dealerships. The goal is to understand purchasing behavior, regional sales trends, the influence of various attributes (such as car model, price, and customer demographics) on sales, and reduce overfitting (it is abig problem on data).
 
 ## Dataset Metadata
 
